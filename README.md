@@ -28,10 +28,12 @@
 
 <!-- Experience -->
 <h3 align="left"> :man_technologist:&nbsp;Experience:</h3>
-During graduation I worked as an algorithms monitor (4 semesters) and discrete math monitor (1 semester). 
+I'm enrolled at FMU, studying systems analysis and development. 
+Before that I was enrolled at Universidade Federal de Uberlândia (UFU).
 <br/>
-In addition, I developed research in the area of formal methods in software engineering.
-
+I have a solid grasp of HTML, CSS, JS. I'm currently studying ReactJS. I also know a bit of Python (;
+<br/>
+I'm looking for my first opportunity in the area.
 <!-- Hard Skills -->
 <h3 align="left"> :rocket:&nbsp;Hard Skills:</h3>
 
