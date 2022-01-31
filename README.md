@@ -41,7 +41,7 @@ In addition, I developed research in the area of formal methods in software engi
 
 **Programming Languages and Database**
 
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" min-width="400px" max-width="400px" width="500px" align="right" alt="logo">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" min-width="10%" max-width="100%" width="70%" align="right" alt="logo">
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
