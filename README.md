@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center"> Hi there 👋, Nice to meet you here.</h1>
-<h3 align="center"> Aspiring Front-end Developer, studying systems analysis and development by FMU. </h3>
+<h3 align="center"> Front-end Developer, studying systems analysis and development by <a href="https://portal.fmu.br/" alt="FMU" target="_blank">FMU</a>. </h3>
 
 <!-- Contatos -->
 <div align="center">    
