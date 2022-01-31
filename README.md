@@ -72,7 +72,7 @@ In addition, I developed research in the area of formal methods in software engi
     <a href="https://github.com/d99ss">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d99ss&show_icons=true&theme=tokyonight" />
     <a/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tassiotfc&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=d99ss&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </p>
 
 <!-- Additional Information -->
