@@ -35,7 +35,7 @@ In addition, I developed research in the area of formal methods in software engi
 <!-- Hard Skills -->
 <h3 align="left"> :rocket:&nbsp;Hard Skills:</h3>
 
-<!-- <img src="https://github.com/tassiotfc/tassiotfc/blob/main/undraw_feeling_proud_qne1.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> -->
+<!-- <img src="https://github.com/tassiotfc/tassiotfc/blob/main/undraw_feeling_proud_qne1.svg" min-width="30%" max-width="100%" width="75%" align="right" alt="Computador iuriCode"> -->
 
 
 
