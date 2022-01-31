@@ -77,4 +77,5 @@ In addition, I developed research in the area of formal methods in software engi
 
 <!-- Additional Information -->
 <h3 align="left"> :memo:&nbsp;Additional Information:</h3>
+
 - [Curriculum Vitae](https://rxresu.me/r/xcdpvt)
