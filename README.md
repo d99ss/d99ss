@@ -43,7 +43,8 @@
 <!-- <img src="https://github.com/tassiotfc/tassiotfc/blob/main/undraw_feeling_proud_qne1.svg" min-width="30%" max-width="100%" width="75%" align="right" alt="Computador iuriCode"> -->
 
 
-
 **Lojas Petz pelo Brasil**
-  <iframe title="lojas_petz" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNzgwM2QyNzktMzE2Yy00YTZlLWFhM2YtZTM1ZjhhZWY2MDhiIiwidCI6ImM1OWExYzQ3LWIxOTgtNDkyZS04NjBiLTY1YWQwODhkZWU2NSJ9&pageName=ReportSection1f1268a9161c1c356505" frameborder="0" allowFullScreen="true"></iframe>
-
+ <div align="center">
+<iframe title="lojas_petz" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNzgwM2QyNzktMzE2Yy00YTZlLWFhM2YtZTM1ZjhhZWY2MDhiIiwidCI6ImM1OWExYzQ3LWIxOTgtNDkyZS04NjBiLTY1YWQwODhkZWU2NSJ9&pageName=ReportSection1f1268a9161c1c356505" frameborder="0" allowFullScreen="true"></iframe>
+</div>
+ 
