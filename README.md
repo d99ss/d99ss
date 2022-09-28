@@ -28,8 +28,8 @@
 
 <!-- Experience -->
 <h3 align="left"> :man_technologist:&nbsp;Experience:</h3>
-I'm enrolled at FMU, studying systems analysis and development. I believe smart decisions using data has the power to change an organization's outcome and get better results. Before that I was enrolled at Universidade Federal de Uberlândia (UFU).
-
+<p>I'm enrolled at FMU, studying systems analysis and development.Before that I was enrolled at Universidade Federal de Uberlândia (UFU).</p>
+ <p> I believe smart decisions using data has the power to change an organization's outcome and get better results.</p>
 <br/>
 
 <ul>As part of my career transition project, I am currently studying:
