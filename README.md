@@ -45,8 +45,6 @@
 
 **Lojas Petz pelo Brasil**
  <div align="center">
-  <a href="https://app.powerbi.com/view?r=eyJrIjoiNzgwM2QyNzktMzE2Yy00YTZlLWFhM2YtZTM1ZjhhZWY2MDhiIiwidCI6ImM1OWExYzQ3LWIxOTgtNDkyZS04NjBiLTY1YWQwODhkZWU2NSJ9&pageName=ReportSection1f1268a9161c1c356505"></a>
-  
-  <img src="(https://user-images.githubusercontent.com/24706768/192893649-d742cd7d-1e46-4b16-8196-edbd9f2ce78d.png)">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNzgwM2QyNzktMzE2Yy00YTZlLWFhM2YtZTM1ZjhhZWY2MDhiIiwidCI6ImM1OWExYzQ3LWIxOTgtNDkyZS04NjBiLTY1YWQwODhkZWU2NSJ9&pageName=ReportSection1f1268a9161c1c356505"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogosmarcas.net%2Fpower-bi-logo%2F&psig=AOvVaw2nftDkjwcpsXRzBQVxRYhO&ust=1664487767746000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOC_hqK6uPoCFQAAAAAdAAAAABAE" alt="Lojas Petz" style="width:42px;height:42px;"></a>
 </div>
  
