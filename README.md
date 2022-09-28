@@ -28,9 +28,10 @@
 
 <!-- Experience -->
 <h3 align="left"> :man_technologist:&nbsp;Experience:</h3>
-I'm enrolled at FMU, studying systems analysis and development. I believe smart decisions using data has the power to change an organization's outcome and get better results.
-Before that I was enrolled at Universidade Federal de Uberlândia (UFU).
+I'm enrolled at FMU, studying systems analysis and development. I believe smart decisions using data has the power to change an organization's outcome and get better results. Before that I was enrolled at Universidade Federal de Uberlândia (UFU).
+
 <br/>
+
 <ul>As part of my career transition project, I am currently studying:
   <li>Google Data Analytics Professional Certificate (Coursera)</li>
   <li>Data Analyst in Power BI (DataCamp)</li>
@@ -82,4 +83,4 @@ Before that I was enrolled at Universidade Federal de Uberlândia (UFU).
   <!-- Additional Information -->
 <h3 align="left"> :memo:&nbsp;Additional Information:</h3>
 
-- [Curriculum Vitae](https://rxresu.me/r/rubfuh)
+<!-- - [Curriculum Vitae](https://rxresu.me/r/rubfuh) -->
