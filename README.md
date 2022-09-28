@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center"> Hi there 👋, Nice to meet you here.</h1>
-<h3 align="center"> Front-end Developer, studying systems analysis and development by <a href="https://portal.fmu.br/" alt="FMU" target="_blank">FMU</a>. </h3>
+<h3 align="center"> Aspiring Data Analyst, studying systems analysis and development at <a href="https://portal.fmu.br/" alt="FMU" target="_blank">FMU</a>. </h3>
 
 <!-- Contatos -->
 <div align="center">    
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5584981430120"/></a>-->
   
   <a href="mailto:mrbettencourt99@gmail.com" alt="gmail" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:tassiofernandescosta@gmail.com" />
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:mrbettencourt99@gmail.com" />
   </a>
 
 </div>
@@ -31,9 +31,11 @@
 I'm enrolled at FMU, studying systems analysis and development. 
 Before that I was enrolled at Universidade Federal de Uberlândia (UFU).
 <br/>
-I have a solid grasp of HTML, CSS, JS. I'm currently studying ReactJS. I also know a bit of Python (;
+As part of my career transition project, I am currently studying:
+. Google Data Analytics Professional Certificate (Coursera)
+. Data Analyst in Power BI (DataCamp)
+. Microsoft Power BI for Data Science (DSA)
 <br/>
-I'm looking for my first opportunity in the area.
 <!-- Hard Skills -->
 <h3 align="left"> :rocket:&nbsp;Hard Skills:</h3>
 
