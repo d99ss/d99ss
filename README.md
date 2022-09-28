@@ -2,7 +2,7 @@
 <img src="https://github.com/tassiotfc/tassiotfc/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
-/*<h1 align="center"> Hi there 👋, Nice to meet you here.</h1>*/
+<h1 align="center"> Hi there 👋, Nice to meet you here.</h1>
 <h3 align="center"> Aspiring Data Analyst, studying systems analysis and development at <a href="https://portal.fmu.br/" alt="FMU" target="_blank">FMU</a>. </h3>
 
 <!-- Contatos -->
