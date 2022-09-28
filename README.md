@@ -38,12 +38,12 @@
   <li>Microsoft Power BI for Data Science (DSA)</li>
   </ul>
 <!-- Hard Skills -->
-<h3 align="left"> :rocket:&nbsp;Hard Skills:</h3>
+<h3 align="left"> :rocket:&nbsp;My latest projects:</h3>
 
 <!-- <img src="https://github.com/tassiotfc/tassiotfc/blob/main/undraw_feeling_proud_qne1.svg" min-width="30%" max-width="100%" width="75%" align="right" alt="Computador iuriCode"> -->
 
 
 
-**My latest projects**
+**Lojas Petz pelo Brasil**
   
 
