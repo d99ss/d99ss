@@ -48,3 +48,4 @@
   <a href="https://app.powerbi.com/view?r=eyJrIjoiNzgwM2QyNzktMzE2Yy00YTZlLWFhM2YtZTM1ZjhhZWY2MDhiIiwidCI6ImM1OWExYzQ3LWIxOTgtNDkyZS04NjBiLTY1YWQwODhkZWU2NSJ9&pageName=ReportSection1f1268a9161c1c356505"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogosmarcas.net%2Fpower-bi-logo%2F&psig=AOvVaw2nftDkjwcpsXRzBQVxRYhO&ust=1664487767746000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOC_hqK6uPoCFQAAAAAdAAAAABAE" alt="Lojas Petz" style="width:42px;height:42px;"  min-width="30%" max-width="100%"></a>
 </div>
  
+![image](https://user-images.githubusercontent.com/24706768/192894219-3c4345bc-e6cf-4612-a7c1-5bdc93882048.png)
