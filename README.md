@@ -32,11 +32,10 @@ I'm enrolled at FMU, studying systems analysis and development.
 Before that I was enrolled at Universidade Federal de Uberlândia (UFU).
 <br/>
 <ul>As part of my career transition project, I am currently studying:
-  <li>.Google Data Analytics Professional Certificate (Coursera)</li>
-  <li>.Data Analyst in Power BI (DataCamp)</li>
-  <li>.Microsoft Power BI for Data Science (DSA)</li>
+  <li>Google Data Analytics Professional Certificate (Coursera)</li>
+  <li>Data Analyst in Power BI (DataCamp)</li>
+  <li>Microsoft Power BI for Data Science (DSA)</li>
   </ul>
-<br/>
 <!-- Hard Skills -->
 <h3 align="left"> :rocket:&nbsp;Hard Skills:</h3>
 
