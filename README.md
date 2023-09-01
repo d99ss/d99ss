@@ -8,15 +8,11 @@
 <!-- Contatos -->
 <div align="center">    
   <a href="https://github.com/d99ss" alt="github" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
   
   <a href="https://www.linkedin.com/in/davidggoncalves/" alt="linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  
-  <a href="mailto:mrbettencourt99@gmail.com" alt="gmail" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:mrbettencourt99@gmail.com" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
   <a href="https://medium.com/@mrbettencourt99" alt="Medium" target="_blank">
