@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center"> Hi there 👋, Nice to meet you here.</h1>
-<h3 align="center"> Aspiring Data Analyst, studying systems analysis and development at <a href="https://portal.fmu.br/" alt="FMU" target="_blank">FMU</a>. </h3>
+<h3 align="center"> Data Analyst solving problems one at a time. </h3>
 
 <!-- Contatos -->
 <div align="center">    
@@ -15,37 +15,24 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   
-  <!--<a href="https://wa.me/5584981430120" alt="WhatsApp" target="_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5584981430120"/></a>-->
-  
   <a href="mailto:mrbettencourt99@gmail.com" alt="gmail" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:mrbettencourt99@gmail.com" />
   </a>
+
+  <a href="https://medium.com/@mrbettencourt99" alt="Medium" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
+
+  
 
 </div>
 
 <br/>
 
-<!-- Experience -->
-<h3 align="left"> :man_technologist:&nbsp;Experience:</h3>
-<p>I'm enrolled at FMU, studying systems analysis and development.Before that I was enrolled at Universidade Federal de Uberlândia (UFU).</p>
- <p> I believe smart decisions using data has the power to change an organization's outcome and get better results.</p>
-<br/>
-
-<ul>As part of my career transition project, I am currently studying:
-  <li>Google Data Analytics Professional Certificate (Coursera)</li>
-  <li>Data Analyst in Power BI (DataCamp)</li>
-  <li>Microsoft Power BI for Data Science (DSA)</li>
-  </ul>
 <!-- Hard Skills -->
 <h3 align="left"> :rocket:&nbsp;Projects:</h3>
 
 <!-- <img src="https://github.com/tassiotfc/tassiotfc/blob/main/undraw_feeling_proud_qne1.svg" min-width="30%" max-width="100%" width="75%" align="right" alt="Computador iuriCode"> -->
 
 
-**Lojas Petz pelo Brasil**
- <div align="center">
-  <a target="_blank" href="https://app.powerbi.com/view?r=eyJrIjoiNzgwM2QyNzktMzE2Yy00YTZlLWFhM2YtZTM1ZjhhZWY2MDhiIiwidCI6ImM1OWExYzQ3LWIxOTgtNDkyZS04NjBiLTY1YWQwODhkZWU2NSJ9&pageName=ReportSection1f1268a9161c1c356505">
-<img src="https://user-images.githubusercontent.com/24706768/192894219-3c4345bc-e6cf-4612-a7c1-5bdc93882048.png" alt="Lojas Petz" min-width="30%" max-width="100%"></a>
-</div>
  
